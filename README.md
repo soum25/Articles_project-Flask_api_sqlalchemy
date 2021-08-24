@@ -1,1 +1,1 @@
-# articles_project_APIRESTfull_sqlalchemy
+This Project have been realised to allow to enter and save some articles with their price, quantity and after to be able to buy some of them. For that, we use an API, and some python modules such as  Flask and SQLalchemy to have the data persistant.
